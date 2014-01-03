@@ -69,6 +69,48 @@
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Time Clock" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{D3B1E3CD-468E-4C4A-BE18-76AB17847677}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{E0ADDB96-CFA4-4718-9B9C-7D0AA08F1FC1}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{21795D62-D867-4C24-8720-2FC61A664886}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Time Clock</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Application</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{7D3EA680-DE44-4A95-99D1-C6CEA315DF78}</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">TimeClock.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../Application/TimeClock.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../Application/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9C6D8944-5A99-4957-A688-483B2F62C710}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">NI</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Time Clock</Property>
+				<Property Name="TgtF_internalName" Type="Str">Time Clock</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 NI</Property>
+				<Property Name="TgtF_productName" Type="Str">Time Clock</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{328A3CC6-A9B6-44B1-A566-2F9F37949081}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">TimeClock.exe</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
