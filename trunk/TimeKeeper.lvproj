@@ -85,7 +85,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7D3EA680-DE44-4A95-99D1-C6CEA315DF78}</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
+				<Property Name="Bld_version.build" Type="Int">13</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">TimeClock.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Application/TimeClock.exe</Property>
@@ -96,7 +96,7 @@
 				<Property Name="Destination[1].path" Type="Path">../Application/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{AAA1E101-63F6-4CAA-B9E8-45E731A8A491}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{D72E17A3-B00C-4014-9BE7-4C0E983FCE85}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
