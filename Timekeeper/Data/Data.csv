@@ -1,4 +1,4 @@
-Team Member - Full Name,Check In,Check Out,Checked In?,Hours,Minutes,Seconds,Total Seconds,Col1,Col2,Col3,Record ID (ref),Related Season Log
+Team Member - Full Name,12/30/2017 11:52:19 AM,12/30/2017 11:52:28 AM,FALSE,11,52,19,9,Col1,Col2,Col3,Record ID (ref),Related Season Log
 Aidan Egan,12/25/2017 11:02:08 AM,12/25/2017 11:02:13 AM,FALSE,11,02,08,12,0,0,0,12,205
 Ajay Ramsay,,,FALSE,,,,,0,0,0,161,206
 Alex Yoon,,,FALSE,,,,,0,0,0,27,207
@@ -14,10 +14,10 @@ Grant Gravallese,,,FALSE,,,,,0,0,0,66,216
 Jake Duggan,12/25/2017 11:10:32 AM,,TRUE,11,10,32,,0,0,0,11,217
 Jason Murray,,,FALSE,,,,,0,0,0,16,218
 Javed Brathwaite,,,FALSE,,,,,0,0,0,72,219
-Jay Siegfried,,,FALSE,,,,,0,0,0,73,220
+Jay Siegfried,12/30/2017 12:03:52 PM,12/30/2017 12:04:41 PM,FALSE,12,03,52,49,0,0,0,73,220
 Jeffrey Compere,,,FALSE,,,,,0,0,0,8,221
 John Kraunelis,,,FALSE,,,,,0,0,0,128,222
-John Paul Nahill,12/25/2017 11:10:45 AM,,TRUE,11,10,45,,0,0,0,17,223
+John Paul Nahill,12/25/2017 11:10:45 AM,12/30/2017 12:03:43 PM,FALSE,11,10,45,3178,0,0,0,17,223
 Kevin Larkin,,,FALSE,,,,,0,0,0,14,224
 Kyle Lok,,,FALSE,,,,,0,0,0,29,225
 Liam Walsh,,,FALSE,,,,,0,0,0,134,226
@@ -28,7 +28,7 @@ Nicholas Martin,,,FALSE,,,,,0,0,0,105,230
 Nicholas Hurley,,,FALSE,,,,,0,0,0,121,231
 Pierce Winter,,,FALSE,,,,,0,0,0,26,232
 Rohan Joshi,,,FALSE,,,,,0,0,0,84,233
-Salim Metri,,,FALSE,,,,,0,0,0,30,234
-Samuel Danby,,,FALSE,,,,,0,0,0,9,235
+Salim Metri,12/30/2017 11:54:54 AM,,TRUE,11,54,54,,0,0,0,30,234
+Samuel Danby,12/30/2017 11:54:18 AM,,TRUE,11,54,18,,0,0,0,9,235
 Thomas Potts,,,FALSE,,,,,0,0,0,111,236
 William Bizier,,,FALSE,,,,,0,0,0,108,237
