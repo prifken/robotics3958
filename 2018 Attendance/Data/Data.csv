@@ -1,34 +1,34 @@
-Full Name,Check In,Check Out,Checked In?,Hours,Minutes,Seconds,Total Seconds,Col1,Col2,Col3,Record ID (ref),Related Season Log
+Full Name,1/6/2018 12:35:31 PM,1/6/2018 12:35:40 PM,FALSE,12,35,31,19,Col1,Col2,Col3,Record ID (ref),Related Season Log
 Aidan Egan,,,FALSE,,,,,0,0,0,12,205
 Ajay Ramsay,,,FALSE,,,,,0,0,0,161,206
-Alex Yoon,,,FALSE,,,,,0,0,0,27,207
-An Ngo,,,FALSE,,,,,0,0,0,163,208
-Andrew Trebicka,,,FALSE,,,,,0,0,0,25,209
-Avery Jennings,,,FALSE,,,,,0,0,0,102,210
-Brendan Webb,,,FALSE,,,,,0,0,0,33,211
-Charles Jacobson,,,FALSE,,,,,0,0,0,110,212
-Chase Thomas,,,FALSE,,,,,0,0,0,24,213
-Colman Gillis,,,FALSE,,,,,0,0,0,62,214
-Declan Nelson,,,FALSE,,,,,0,0,0,18,215
+Alex Yoon,1/6/2018 9:42,1/6/2018 12:05,FALSE,9,42,40,8570,0,0,0,27,207
+An Ngo,1/6/2018 9:10,1/6/2018 12:05,FALSE,9,10,16,10518,0,0,0,163,208
+Andrew Trebicka,1/6/2018 9:11,1/6/2018 12:05,FALSE,9,11,2,10477,0,0,0,25,209
+Avery Jennings,1/6/2018 9:12,1/6/2018 12:05,FALSE,9,12,16,10408,0,0,0,102,210
+Brendan Webb,1/6/2018 9:51,1/6/2018 12:05,FALSE,9,51,47,8040,0,0,0,33,211
+Charles Jacobson,1/6/2018 9:12,1/6/2018 12:05,FALSE,9,12,4,10425,0,0,0,110,212
+Chase Thomas,1/6/2018 9:11,1/6/2018 12:05,FALSE,9,11,7,10485,0,0,0,24,213
+Colman Gillis,1/6/2018 9:09,1/6/2018 12:05,FALSE,9,9,52,10562,0,0,0,62,214
+Declan Nelson,1/6/2018 9:08,1/6/2018 12:05,FALSE,9,8,8,10668,0,0,0,18,215
 Grant Gravallese,,,FALSE,,,,,0,0,0,66,216
-Jake Duggan,,,FALSE,,,,,0,0,0,11,217
-Jason Murray,,,FALSE,,,,,0,0,0,16,218
+Jake Duggan,1/6/2018 9:31,1/6/2018 12:06,FALSE,9,31,39,9261,0,0,0,11,217
+Jason Murray,1/6/2018 9:11,1/6/2018 12:06,FALSE,9,11,27,10476,0,0,0,16,218
 Javed Brathwaite,,,FALSE,,,,,0,0,0,72,219
-Jay Siegfried,,,FALSE,,,,,0,0,0,73,220
+Jay Siegfried,1/6/2018 9:10,1/6/2018 12:06,FALSE,9,10,10,10558,0,0,0,73,220
 Jeffrey Compere,,,FALSE,,,,,0,0,0,8,221
-John Kraunelis,,,FALSE,,,,,0,0,0,128,222
-John Paul Nahill,,,FALSE,,,,,0,0,0,17,223
+John Kraunelis,1/6/2018 9:11,1/6/2018 12:06,FALSE,9,11,38,10475,0,0,0,128,222
+John Paul Nahill,1/6/2018 9:10,1/6/2018 12:06,FALSE,9,10,4,10572,0,0,0,17,223
 Kevin Larkin,,,FALSE,,,,,0,0,0,14,224
-Kyle Lok,,,FALSE,,,,,0,0,0,29,225
-Liam Walsh,,,FALSE,,,,,0,0,0,134,226
-Luke Reid,,,FALSE,,,,,0,0,0,93,227
+Kyle Lok,1/6/2018 9:53,1/6/2018 12:06,FALSE,9,53,25,7977,0,0,0,29,225
+Liam Walsh,1/6/2018 9:12,1/6/2018 12:06,FALSE,9,12,24,10440,0,0,0,134,226
+Luke Reid,1/6/2018 9:09,1/6/2018 12:06,FALSE,9,9,42,10604,0,0,0,93,227
 Maxwell Malamut,,,FALSE,,,,,0,0,0,133,228
-Michael Gannon,,,FALSE,,,,,0,0,0,28,229
-Nicholas Martin,,,FALSE,,,,,0,0,0,105,230
-Nicholas Hurley,,,FALSE,,,,,0,0,0,121,231
-Pierce Winter,,,FALSE,,,,,0,0,0,26,232
-Rohan Joshi,,,FALSE,,,,,0,0,0,84,233
-Salim Metri,,,TRUE,,,,,0,0,0,30,234
-Samuel Danby,,,TRUE,,,,,0,0,0,9,235
+Michael Gannon,1/6/2018 9:10,1/6/2018 12:06,FALSE,9,10,53,10538,0,0,0,28,229
+Nicholas Martin,1/6/2018 9:11,1/6/2018 12:06,FALSE,9,11,49,10486,0,0,0,105,230
+Nicholas Hurley,1/6/2018 9:11,1/6/2018 12:06,FALSE,9,11,17,10521,0,0,0,121,231
+Pierce Winter,1/6/2018 9:30,1/6/2018 12:06,FALSE,9,30,19,9392,0,0,0,26,232
+Rohan Joshi,1/6/2018 9:10,1/6/2018 12:06,FALSE,9,10,40,10565,0,0,0,84,233
+Salim Metri,1/6/2018 9:19,1/6/2018 12:06,FALSE,9,19,48,43602,0,0,0,30,234
+Samuel Danby,1/6/2018 9:19,1/6/2018 12:06,FALSE,,,,43610,0,0,0,9,235
 Thomas Potts,,,FALSE,,,,,0,0,0,111,236
-William Bizier,,,FALSE,,,,,0,0,0,108,237
+William Bizier,1/6/2018 9:12,1/6/2018 12:06,FALSE,9,12,33,10463,0,0,0,108,237
