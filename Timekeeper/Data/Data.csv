@@ -1,34 +1,44 @@
 Full Name,Check In,Check Out,Checked In?,Hours,Minutes,Seconds,Total Seconds,Col1,Col2,Col3,Record ID (ref),Related Season Log
-Aidan Egan,,,FALSE,,,,,0,0,0,12,205
-Ajay Ramsay,,,FALSE,,,,,0,0,0,161,206
-Alex Yoon,,,FALSE,,,,,0,0,0,27,207
-An Ngo,,,FALSE,,,,,0,0,0,163,208
-Andrew Trebicka,,,FALSE,,,,,0,0,0,25,209
-Avery Jennings,,,FALSE,,,,,0,0,0,102,210
-Brendan Webb,,,FALSE,,,,,0,0,0,33,211
-Charles Jacobson,,,FALSE,,,,,0,0,0,110,212
-Chase Thomas,,,FALSE,,,,,0,0,0,24,213
-Colman Gillis,,,FALSE,,,,,0,0,0,62,214
-Declan Nelson,1/15/2018 2:20:05 PM,1/15/2018 2:20:14 PM,FALSE,14,20,05,9,0,0,0,18,215
-Grant Gravallese,,,FALSE,,,,,0,0,0,66,216
-Jake Duggan,,,FALSE,,,,,0,0,0,11,217
-Jason Murray,,,FALSE,,,,,0,0,0,16,218
-Javed Brathwaite,,,FALSE,,,,,0,0,0,72,219
-Jay Siegfried,,,FALSE,,,,,0,0,0,73,220
-Jeffrey Compere,,,FALSE,,,,,0,0,0,8,221
-John Kraunelis,,,FALSE,,,,,0,0,0,128,222
-John Paul Nahill,,,FALSE,,,,,0,0,0,17,223
-Kevin Larkin,,,FALSE,,,,,0,0,0,14,224
-Kyle Lok,,,FALSE,,,,,0,0,0,29,225
-Liam Walsh,,,FALSE,,,,,0,0,0,134,226
-Luke Reid,,,FALSE,,,,,0,0,0,93,227
-Maxwell Malamut,,,FALSE,,,,,0,0,0,133,228
-Michael Gannon,,,FALSE,,,,,0,0,0,28,229
-Nicholas Martin,,,FALSE,,,,,0,0,0,105,230
-Nicholas Hurley,,,FALSE,,,,,0,0,0,121,231
-Pierce Winter,,,FALSE,,,,,0,0,0,26,232
-Rohan Joshi,,,FALSE,,,,,0,0,0,84,233
-Salim Metri,,,TRUE,,,,,0,0,0,30,234
-Samuel Danby,1/15/2018 2:20:43 PM,1/15/2018 2:20:45 PM,FALSE,14,20,43,51643,0,0,0,9,235
-Thomas Potts,,,FALSE,,,,,0,0,0,111,236
-William Bizier,,,FALSE,,,,,0,0,0,108,237
+Aden Lok,,,FALSE,,,,,0,0,0,167,239
+Aidan Egan,12/25/2018 4:04:48 PM,12/25/2018 4:04:51 PM,FALSE,16,04,48,1188,0,0,0,12,240
+Alejandro Magadan,,,FALSE,,,,,0,0,0,166,241
+Alessandro Carleton,,,FALSE,,,,,0,0,0,165,242
+Amaan Ali,12/25/2018 4:09:12 PM,12/25/2018 4:09:58 PM,FALSE,16,09,12,47,0,0,0,168,243
+An Ngo,12/25/2018 2:59:26 PM,12/25/2018 2:59:54 PM,FALSE,14,59,26,107,0,0,0,163,244
+Avery Jennings,,,FALSE,,,,,0,0,0,102,245
+Brendan Webb,12/25/2018 3:29:33 PM,12/25/2018 4:03:11 PM,FALSE,15,29,33,2021,0,0,0,33,246
+Brendan Byrne,,,FALSE,,,,,0,0,0,169,247
+Charles Jacobson,12/25/2018 3:39:57 PM,12/25/2018 3:40:01 PM,FALSE,15,39,57,27,0,0,0,110,248
+Chase Thomas,12/25/2018 3:51:57 PM,12/25/2018 3:52:01 PM,FALSE,15,51,57,626,0,0,0,24,249
+Christian Davis,,,FALSE,,,,,0,0,0,171,250
+Christopher Keith,,,FALSE,,,,,0,0,0,170,251
+Colman Gillis,,,FALSE,,,,,0,0,0,62,252
+Daniel Murtagh,12/25/2018 4:09:08 PM,12/25/2018 4:09:58 PM,FALSE,16,09,08,54,0,0,0,173,253
+Daniel Politano,,,FALSE,,,,,0,0,0,175,254
+Donovan Moore,12/25/2018 4:02:34 PM,12/25/2018 4:02:40 PM,FALSE,16,02,34,6,0,0,0,174,255
+Dyllan Bui,12/25/2018 3:39:20 PM,12/25/2018 3:39:24 PM,FALSE,15,39,20,1014,0,0,0,172,256
+Henry Synnott,,,FALSE,,,,,0,0,0,176,257
+Huy GIang,12/25/2018 4:11:16 PM,12/25/2018 4:13:05 PM,FALSE,16,11,16,117,0,0,0,177,258
+Isaiah Jean-Fontaine,12/25/2018 4:04:57 PM,12/25/2018 4:05:03 PM,FALSE,16,04,57,6,0,0,0,178,259
+Jack Duggan,,,FALSE,,,,,0,0,0,11,260
+Jack Morris,,,FALSE,,,,,0,0,0,181,261
+Jake Monahan,12/25/2018 4:04:41 PM,12/25/2018 4:05:45 PM,FALSE,16,04,41,1069,0,0,0,189,262
+James McEneaney,12/25/2018 4:12:27 PM,12/25/2018 4:13:05 PM,FALSE,16,12,27,102,0,0,0,180,263
+Jason Murray,,,FALSE,,,,,0,0,0,16,264
+Javed Brathwaite,,,FALSE,,,,,0,0,0,72,265
+Jay Siegfried,12/25/2018 4:08:53 PM,12/25/2018 4:09:58 PM,FALSE,16,08,53,144,0,0,0,73,266
+Jeffrey Chen,12/25/2018 2:32:33 PM,12/25/2018 2:33:12 PM,FALSE,14,32,33,46,0,0,0,179,267
+Karsten Patzer,12/25/2018 4:04:46 PM,12/25/2018 4:05:45 PM,FALSE,16,04,46,67,0,0,0,182,268
+Liam Walsh,,,FALSE,,,,,0,0,0,134,269
+Lucas Hurley,,,FALSE,,,,,0,0,0,183,270
+Luke Reid,,,FALSE,,,,,0,0,0,93,271
+Maxwell Malamut,,,FALSE,,,,,0,0,0,133,272
+Nicholas Hurley,12/25/2018 4:20:11 PM,12/25/2018 4:20:17 PM,FALSE,16,20,11,14,0,0,0,121,273
+Philip Byrne,,,FALSE,,,,,0,0,0,184,274
+Praveen Kalva,,,FALSE,,,,,0,0,0,185,275
+Rohan Joshi,12/25/2018 4:09:07 PM,12/25/2018 4:09:58 PM,FALSE,16,09,07,61,0,0,0,84,276
+Samuel Danby,12/25/2018 4:05:14 PM,12/25/2018 4:05:45 PM,FALSE,16,05,14,41,0,0,0,9,277
+Thomas Potts,,,FALSE,,,,,0,0,0,111,278
+Timmy Tran,,,FALSE,,,,,0,0,0,186,279
+Willem Lenig,,,FALSE,,,,,0,0,0,188,280
+William Lau,,,FALSE,,,,,0,0,0,187,281
